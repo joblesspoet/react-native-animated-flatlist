@@ -14,6 +14,9 @@ Password generator use the following tech:
 
 - [ReactNative] - ReactNative!
 
+![Alt text](/screens/Screenshot_1629494917.png "Flatlist")
+![Alt text](/screens/Screenshot_1629494925.png "Flatlist Animation")
+![Alt text](/screens/Screenshot_1629494929.png "Flatlist Animation with opacity")
 ## Installation
 
 Password requires [Node.js](https://nodejs.org/) v10+ to run.
